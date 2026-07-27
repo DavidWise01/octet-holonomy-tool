@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 250
 slug  : octet-holonomy-tool
-seal  : a34540d14c7fbabe87d7b4e053182a0e4af9c15566d0c666bfd2f26686ebc1ac
-prev  : 98954d2503fdc03dc39c80ea69465e1dc07fc3c87ad6b93612190d671629781e
-link  : 9308a0ddcbb22054636505fe5b48590e1ea46e77e0c99afdba37912d94bc2979
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : a131d1f509db2ff4489edaeddf5c9f02d13faedea9e5eb5c4677db5310e3a449
+prev  : 766e8a9afbd279b28e3c6c932b85bde4cf8e29e517bfe7b548ac211ac821f9d1
+link  : 98ac4e0b28bbcd592a33a72091153beccf370810e9d11de2ebaa7ae0700ada4c
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
